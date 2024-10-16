@@ -23,7 +23,7 @@ body{
     width: 55%;
     border-radius: 10px 0px 0px 10px;
     display: flex;
-    background-image: url('/download.gif');
+    background-image: url('download.gif');
     background-size: cover;
     background-position: center;
     height: 100%;
